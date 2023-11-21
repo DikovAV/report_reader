@@ -8,7 +8,7 @@ This Python package provides a comprehensive analysis of trading reports generat
 
 A typical brokerage report looks like this:
 
-![Текст с описанием картинки](report_reader\\assets\\broker_report.png)
+![Текст с описанием картинки](assets/broker_report.png)
 
 To obtain a CSV file suitable for further analysis, you need to take several steps to clean up the brokerage report.
 
