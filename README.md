@@ -27,7 +27,7 @@ br.statistic_calc(init_cash=100000)
 br.summary_calc()
 br.summary_per_trade_calc()
 
-#Show 5 trade trades
+#Show 5 first trades
 br.df.loc[br.df.num_of_trade == 5]
 #Show summary
 br.summary
